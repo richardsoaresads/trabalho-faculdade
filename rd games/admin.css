@@ -1,0 +1,12 @@
+body{font-family:Arial,Helvetica,sans-serif;background:#0b0b0b;color:#eee;padding:20px;margin:0}
+.wrap{max-width:1100px;margin:0 auto}
+.topo{display:flex;justify-content:space-between;align-items:center;margin-bottom:18px}
+h1,h2{margin:0}
+.acoes{margin-bottom:12px;display:flex;gap:10px}
+.btn{background:#2774d8;color:#fff;padding:8px 12px;border-radius:6px;text-decoration:none;border:0;cursor:pointer}
+.btn.small{padding:6px 8px}
+.btn.danger{background:#d83a3a}
+table.lista{width:100%;border-collapse:collapse}
+table.lista th, table.lista td{padding:8px;border-bottom:1px solid #222;text-align:left}
+.erro{background:#4a0916;color:#fff;padding:10px;border-radius:6px;margin-bottom:10px}
+input, textarea{width:100%;padding:8px;border-radius:6px;border:1px solid #333;background:#0b0b0d;color:#eee}
